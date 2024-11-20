@@ -1,0 +1,4 @@
+Flask
+Flask-Cors
+flask_socketio
+Werkzeug==2.2.2
